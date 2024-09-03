@@ -1,4 +1,22 @@
 h2 {
     color: red;
-    font-size: 200px;
+    font-size: 40px;
 }
+
+#first{
+    color: blue;
+}
+
+#second {
+    color: green;
+}
+
+.text{
+    font-size: 20px;
+}
+
+#mycatphoto{
+    width: 300;
+    height: 600;
+}
+
