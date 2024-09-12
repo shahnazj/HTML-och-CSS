@@ -20,7 +20,9 @@ h2 {
     height: 600;
 }
 
-* {
+*{
+    margin:auto;
     padding: auto;
 }
+
 
